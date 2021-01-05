@@ -1,0 +1,20 @@
+.storybook_combo {
+  font-family: "Nunito Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 4px;
+  height: 40px;
+  margin: 10px;
+}
+
+.storybook_combo_small {
+  width: 100px;
+}
+
+.storybook_combo_medium {
+  width: 300px;
+}
+
+.storybook_combo_large {
+  width: 600px;
+}
